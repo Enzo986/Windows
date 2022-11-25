@@ -20,3 +20,8 @@ char* StrCpy(char* src)
 	return *p2;
 }
 
+/**
+网页编辑
+B20032320赵逸天
+**/
+
